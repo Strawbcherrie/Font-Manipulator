@@ -1,0 +1,36 @@
+body{
+    color:crimson;
+    background-image: url("https://media.rainpos.com/6990/mary_jos.jpg");
+    background-size: cover;
+    /* Background Picture can also be added in html by : <body background="background_image.jpg">*/
+}
+h1{
+    background-color:lightpink;
+    margin:0px;
+    margin-left: 600px;
+    margin-right: 600px;
+    font-size: 50px;
+    /* There is still some spacing even though I have given the margin 0 */
+}
+span{
+    font-size: 30px;
+    color: blueviolet;
+    margin:0px;
+    /* There is still some spacing even though I have given the margin 0 in this too */
+}
+.footer{
+    line-height: 3;
+    margin-top: 805px;
+}
+canvas{
+    background-color: green;
+    border-color: brown;
+    border-width: 30px;
+    border-radius: 150px;
+    margin-left: 400px;
+    /*How to give absolutely 360o degree  circle?*/
+}
+#input{
+    width: 375px;
+    background: yellow;
+} 
